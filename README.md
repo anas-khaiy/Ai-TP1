@@ -28,3 +28,27 @@
 ## Quelle proportion du texte est supprimée ?
 - Souvent 30 à 60 % selon le texte.
 
+# Partie 4 — Lemmatisation
+
+## Différence entre stemming et lemmatisation :
+
+- Stemming : coupe le mot (approche brute) → “playing” → “play”, “studies” → “studi”
+
+- Lemmatisation : retourne la forme correcte du mot (“studies” → “study”) en tenant compte de la grammaire.
+
+## Pourquoi cette étape est importante ?
+- Elle regroupe les formes d’un même mot, donc réduit la complexité du vocabulaire et améliore la qualité de l’analyse sémantique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
