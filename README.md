@@ -19,3 +19,12 @@
 
 - Texte original : Hello World! NLP is FUN 😄, isn't it?
 - Texte nettoyé : hello world nlp is fun 😄 isnt it
+
+# Partie 3 — Tokenisation et Stopwords
+
+## Que représentent les stopwords ?
+- Ce sont des mots très fréquents sans valeur sémantique ( Exemple : “the”, “a”, “in”, “is”...) .
+
+## Quelle proportion du texte est supprimée ?
+- Souvent 30 à 60 % selon le texte.
+
